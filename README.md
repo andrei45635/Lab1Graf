@@ -12,8 +12,11 @@ in.txt
 
 4
 1 2
+
 3 4
+
 2 3
+
 4 2
 
 2. Fie un graf reprezentat sub o anumita forma (graful este citit dintr-un fisier). Sa se rezolve:
